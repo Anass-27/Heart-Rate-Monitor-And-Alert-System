@@ -372,9 +372,9 @@ SOFTWARE.
 
 ## 👨‍💻 Author
 
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
+Anass Youssfi
+- GitHub: [@Anass-27](https://github.com/Anass-27)
+- Email: anassyoussfi@gmail.com
 
 ---
 
@@ -402,6 +402,11 @@ SOFTWARE.
 ---
 
 ## 📸 Screenshots
+
+<img width="1919" height="1019" alt="Screenshot 2025-11-27 132655" src="https://github.com/user-attachments/assets/3e7bd94f-1be5-4ae1-91c4-e847e02b82ea" />
+<img width="1919" height="1024" alt="Screenshot 2025-11-27 132752" src="https://github.com/user-attachments/assets/8f3e3b02-309a-49c6-9d75-122fb107f85d" />
+<img width="1919" height="1019" alt="Screenshot 2025-11-27 132536" src="https://github.com/user-attachments/assets/2d8b2dd4-43b6-40c3-97b3-a21e35f6e3f5" />
+
 
 > **Note:** Add screenshots of your app here!
 
